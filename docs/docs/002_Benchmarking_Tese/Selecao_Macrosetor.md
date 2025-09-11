@@ -12,3 +12,19 @@ Em 2022, os preços dispararam e o custo de produção subiu 30% para o agricult
 
 Para um valuation, é um setor volátil, com margens que variam com commodities, mas com upside em ESG e recuperação de pastagens degradadas – 82 milhões de hectares potenciais. É um case que espelha os riscos e forças reais do agro brasileiro, especialmente com as entregas batendo recordes em 2025.
 
+## Características do Setor
+
+- Entregas de 20,14 milhões de toneladas no 1º semestre de 2025 (+10,5% vs. 2024), segundo a ANDA.
+- Projeção de 48-49 milhões de toneladas em 2025, maior volume histórico.
+- Demanda anual estimada em 58,5 milhões de toneladas até 2030.
+- Soja e milho consomem 73% dos insumos.
+- 85% dos fertilizantes são importados, gerando custo de US$ 25 bilhões/ano.
+- Portos de Paranaguá e Santos movimentam 54% do volume, gerando gargalos logísticos no Centro-Oeste.
+- Frete rodoviário eleva custos em até 20%.
+- Fertilizantes especiais (biológicos, organominerais) faturaram R$ 26,9 bilhões em 2024 (+18,9%), representando 18,9% do mercado.
+- Setor concentrado: poucos players dominam entre 73% e 86% do mercado.
+- Foco em NPK, com volatilidade por geopolítica e preços.
+- Investimentos em P&D equivalem a 2,8% do faturamento (Abisolo).
+- Acordo MAPA–ANDA (set/2025) para estatísticas e sustentabilidade.
+- Produção nacional subiu 8,9% no semestre.
+
