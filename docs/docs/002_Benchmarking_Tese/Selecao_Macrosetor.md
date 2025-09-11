@@ -29,3 +29,12 @@ Para fins de valuation, trata-se de um setor volátil, com margens que variam co
 - Produção nacional subiu 8,9% no semestre.
 
 ---
+
+## Empresa Estudada
+
+**Nome da Empresa:** Mosaic Fertilizantes
+
+### Justificativa da Escolha Inicial
+
+Escolhemos a Mosaic por sua liderança com 20% de market share em fosfatados e potássio, além de representar bem a transição da dependência externa para a integração vertical — após a aquisição de ativos da Vale em 2018, a empresa avança agora em biosciências. É ideal para análise de valuation por equilibrar escala global com inovação local, permitindo avaliar impactos ESG e decisões estratégicas como a venda recente de minas para priorizar retornos elevados.
+
