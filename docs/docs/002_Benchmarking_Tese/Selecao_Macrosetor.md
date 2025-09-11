@@ -38,3 +38,30 @@ Para fins de valuation, trata-se de um setor volátil, com margens que variam co
 
 Escolhemos a Mosaic por sua liderança com 20% de market share em fosfatados e potássio, além de representar bem a transição da dependência externa para a integração vertical — após a aquisição de ativos da Vale em 2018, a empresa avança agora em biosciências. É ideal para análise de valuation por equilibrar escala global com inovação local, permitindo avaliar impactos ESG e decisões estratégicas como a venda recente de minas para priorizar retornos elevados.
 
+### Perfil da Empresa
+
+- Braço brasileiro da The Mosaic Company (NYSE: MOS), sediada em Tampa, EUA.
+- Foco: extração e processamento de fosfato e potássio para nutrientes agrícolas.
+- Missão: "ajudar o mundo a produzir alimentos suficientes".
+- Presente no Brasil desde 1977 como Fosfertil (privatizada em 1992).
+- Comprada pela Vale em 2010 (US$ 3 bilhões) e pela Mosaic em 2018 (US$ 1,15 bilhão + ações).
+- Opera como Mosaic Fertilizantes do Brasil Ltda. (CNPJ 61.156.501/0001-56), com sede em SP.
+- Unidades em mais de 10 estados (MG, GO, SP, SE, PR) e no Paraguai.
+- Controla o terminal Fospar em Paranaguá para importação/exportação.
+- Produz 27,2 milhões de toneladas/ano para 40 países, com foco no agro brasileiro.
+
+### Produtos
+
+- Fosfatados: MAP, DAP  
+- Potássicos: K-Mag  
+- NPK  
+- Inovações: MicroEssentials (micronutrientes) e linha Biosciences (bioestimulantes para solo/sementes, lançada em março/2024)  
+- Meta da linha Biosciences: US$ 100 milhões até 2030
+
+### Desempenho Financeiro
+
+- **Brasil (2022):** Lucro operacional de US$ 910 milhões (+22%), EBITDA de US$ 1 bilhão  
+- **Global (2023):** Vendas de US$ 13,7 bilhões (-30%), lucro de US$ 1,2 bilhão (-67%) pela normalização de preços  
+- **1º trimestre de 2024:** Recuperação via mercado local, com entregas projetadas em 47 milhões de toneladas (+3%)  
+- **2025:** Venda das minas de Patos de Minas (US$ 125 milhões) e Taquari-Vassouras (US$ 27 milhões) para focar em ativos de alto retorno, alinhado ao PNF
+```
