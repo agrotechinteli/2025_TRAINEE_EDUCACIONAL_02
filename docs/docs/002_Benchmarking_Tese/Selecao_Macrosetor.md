@@ -1,3 +1,9 @@
+---
+sidebar_position: 1
+slug: /valuation/benchmarking/selecao-macrosetor
+description: "Seleção e justificativa do macrosetor estudado"
+---
+
 # Seleção do Macrosetor e Empresa Estudada
 
 ## Macrosetor Escolhido
