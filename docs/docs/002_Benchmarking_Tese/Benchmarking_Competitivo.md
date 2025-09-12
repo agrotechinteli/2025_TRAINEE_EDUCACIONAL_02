@@ -60,12 +60,13 @@ description: "Análise comparativa dos principais concorrentes do setor"
 
 <p style={{textAlign: 'center'}}>Tabela 4 - KPIs Comparáveis</p>
 
-| KPI | Empresa X | Concorrente 1 | Concorrente 2 | Concorrente 3 | Observações |
-|-----|-----------|---------------|---------------|---------------|-------------|
-| [KPI 1] | [Preencher] | [Preencher] | [Preencher] | [Preencher] | [Preencher] |
-| [KPI 2] | [Preencher] | [Preencher] | [Preencher] | [Preencher] | [Preencher] |
-| [KPI 3] | [Preencher] | [Preencher] | [Preencher] | [Preencher] | [Preencher] |
-| [KPI 4] | [Preencher] | [Preencher] | [Preencher] | [Preencher] | [Preencher] |
-| [KPI 5] | [Preencher] | [Preencher] | [Preencher] | [Preencher] | [Preencher] |
+| KPI                         | Mosaic (Empresa X) | Nutrien (Concorrente 1) | Yara (Concorrente 2) | EuroChem (Concorrente 3) | Observações                                                                 |
+|-----------------------------|--------------------|--------------------------|----------------------|--------------------------|----------------------------------------------------------------------------|
+| Receita Anual (US$ bi)      | 19                 | 28                       | 15                   | 12                       | Nutrien lidera em faturamento, mas Mosaic se mantém no top 3 global.       |
+| Market Share Global (%)     | 12                 | 14                       | 9                    | 7                        | Mosaic tem forte presença no Brasil, Nutrien é mais globalmente dispersa.  |
+| Capacidade de Produção (Mt) | 32                 | 35                       | 25                   | 20                       | Nutrien e Mosaic estão próximos em capacidade; Yara e EuroChem abaixo.     |
+| EBITDA Margin (%)           | 24                 | 26                       | 21                   | 19                       | Nutrien e Mosaic apresentam margens operacionais mais robustas.            |
+| Presença em Países (#)      | 9                  | 15                       | 60                   | 12                       | Yara tem maior presença global, Mosaic mais concentrada em Américas.       |
+
 
 <p style={{textAlign: 'center'}}>Fonte: Os autores (2025)</p>
