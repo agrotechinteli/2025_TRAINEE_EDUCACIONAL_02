@@ -10,10 +10,9 @@ description: "Análise comparativa dos principais concorrentes do setor"
 
 ### Lista de Concorrentes
 
-**Concorrente 1**: [Preencher]
-**Concorrente 2**: [Preencher]
-**Concorrente 3**: [Preencher]
-**Concorrente 4** (opcional): [Preencher]
+**Concorrente 1**: Yara International
+**Concorrente 2**: Nutrien
+**Concorrente 3**: EuroChem
 
 ## Análise Comparativa
 
@@ -23,10 +22,11 @@ description: "Análise comparativa dos principais concorrentes do setor"
 
 | Empresa | Escopo de Produtos/Serviços | Mercados de Atuação | Segmentos Atendidos |
 |---------|----------------------------|---------------------|---------------------|
-| Empresa X | [Preencher] | [Preencher] | [Preencher] |
-| Concorrente 1 | [Preencher] | [Preencher] | [Preencher] |
-| Concorrente 2 | [Preencher] | [Preencher] | [Preencher] |
-| Concorrente 3 | [Preencher] | [Preencher] | [Preencher] |
+| Mosaic | Produção e comercialização de fertilizantes concentrados: fosfatos** e potássio; suporte técnico a agricultores; insumos para ração | Global: forte nas Américas (EUA, Brasil) e exportações globais | Agricultura comercial (grãos, oleaginosas), produtores de fertilizantes compostos |
+| Nutrien | Fertilizantes: potássio, nitrogênio, fosfato; grande rede de varejo e serviços agrícolas | Global: América do Norte, América do Sul, Austrália, etc. | Agricultura comercial, varejo agrícola/serviços a produtores |
+| Yara International | Fertilizantes nitrogenados, soluções de nutrição vegetal, serviços digitais agrícolas | Global: forte presença na Europa e América Latina | Agricultura de precisão, produtores comerciais, soluções de nutrição vegetal |
+| EuroChem | Produção integrada de nitrogênio, fosfato, potássio; complexos industriais e fertilizantes compostos | Global: expansão recente com plantas no Brasil (Serra do Salitre) | Agricultura comercial e mercados emergentes (com logística para exportação) |
+
 
 <p style={{textAlign: 'center'}}>Fonte: Os autores (2025)</p>
 
