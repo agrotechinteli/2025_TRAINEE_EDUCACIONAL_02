@@ -36,10 +36,10 @@ description: "Análise comparativa dos principais concorrentes do setor"
 
 | Empresa | Principais Produtos | Diferenciação | Posicionamento de Preço |
 |---------|-------------------|---------------|-------------------------|
-| Empresa X | [Preencher] | [Preencher] | [Preencher] |
-| Concorrente 1 | [Preencher] | [Preencher] | [Preencher] |
-| Concorrente 2 | [Preencher] | [Preencher] | [Preencher] |
-| Concorrente 3 | [Preencher] | [Preencher] | [Preencher] |
+| Mosaic | MAP, DAP, superfosfato, cloreto de potássio (MOP), blends fosfato/potássio; soluções e suporte agrícola | Especialização em fosfatos e potássio com forte conhecimento de mina e logística | Competitivo no potássio/fosfato; preço ligado a cotações internacionais e custos logísticos |
+| Nutrien | Potash, UAN, ureia, MAP/DAP; serviço de varejo (agronomia, blends) | Integração upstream + grande rede de varejo (vantagem logística e relacionamento) | Amplitude de portfólio permite estratégias de preço por canal; costuma atuar em faixas médias a altas dependendo do produto |
+| Yara International | Ureia, nitrato de cálcio, NPKs, soluções líquidas, serviços digitais | Foco em inovação/soluções agronômicas e sustentabilidade; forte marca em nutrição vegetal | Posicionamento de valor (soluções) mais do que commodity, com preços premium em algumas linhas |
+| EuroChem | NPK blends, MAP/DAP, MOP, fertilizantes complexos; investimentos em capacidade local | Expansão vertical e presença local (ex.: planta no Brasil) para reduzir custo logístico | Competitivo, com pressões para oferecer preço atrativo em mercados locais |
 
 <p style={{textAlign: 'center'}}>Fonte: Os autores (2025)</p>
 
