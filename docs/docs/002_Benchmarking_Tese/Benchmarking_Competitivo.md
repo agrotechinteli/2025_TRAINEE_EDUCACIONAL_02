@@ -10,9 +10,9 @@ description: "Análise comparativa dos principais concorrentes do setor"
 
 ### Lista de Concorrentes
 
-**Concorrente 1**: Yara International
-**Concorrente 2**: Nutrien
-**Concorrente 3**: EuroChem
+- **Concorrente 1**: Yara International
+- **Concorrente 2**: Nutrien
+- **Concorrente 3**: EuroChem
 
 ## Análise Comparativa
 
