@@ -10,21 +10,21 @@ description: "Tese de escolha da empresa para análise detalhada"
 
 ### Lista de Critérios
 
-1. [Preencher com critério 1]
-2. [Preencher com critério 2]
-3. [Preencher com critério 3]
-4. [Preencher com critério 4]
+1. Participação de Mercado / Alcance Global
+2. Portfólio de Produtos e Diversificação
+3. Capacidade de Produção e Logística
+4. Inovação / Sustentabilidade
 
 ## Avaliação Comparativa
 
 <p style={{textAlign: 'center'}}>Tabela 5 - Avaliação Comparativa dos Critérios</p>
 
-| Critério | Peso | Empresa X | Concorrente 1 | Concorrente 2 | Concorrente 3 |
+| Critério | Peso | Mosaic | Yara International | Nutrien | EuroChem |
 |----------|------|-----------|---------------|---------------|---------------|
-| Critério 1 | [%] | [Nota] | [Nota] | [Nota] | [Nota] |
-| Critério 2 | [%] | [Nota] | [Nota] | [Nota] | [Nota] |
-| Critério 3 | [%] | [Nota] | [Nota] | [Nota] | [Nota] |
-| Critério 4 | [%] | [Nota] | [Nota] | [Nota] | [Nota] |
+| Participação de Mercado / Alcance Global | [%] | [Nota] | [Nota] | [Nota] | [Nota] |
+| Portfólio de Produtos e Diversificação | [%] | [Nota] | [Nota] | [Nota] | [Nota] |
+| Capacidade de Produção e Logística | [%] | [Nota] | [Nota] | [Nota] | [Nota] |
+| Inovação / Sustentabilidade | [%] | [Nota] | [Nota] | [Nota] | [Nota] |
 | **Total** | **100%** | **[Total]** | **[Total]** | **[Total]** | **[Total]** |
 
 <p style={{textAlign: 'center'}}>Fonte: Os autores (2025)</p>
