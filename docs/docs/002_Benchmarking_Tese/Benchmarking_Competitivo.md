@@ -49,10 +49,10 @@ description: "Análise comparativa dos principais concorrentes do setor"
 
 | Empresa | Canais de Distribuição | Cobertura Geográfica | Estratégia de Canal |
 |---------|----------------------|----------------------|-------------------|
-| Empresa X | [Preencher] | [Preencher] | [Preencher] |
-| Concorrente 1 | [Preencher] | [Preencher] | [Preencher] |
-| Concorrente 2 | [Preencher] | [Preencher] | [Preencher] |
-| Concorrente 3 | [Preencher] | [Preencher] | [Preencher] |
+| Mosaic | Exportação direta, distribuidores regionais, parcerias locais, canais B2B | Global, com ênfase nas Américas; operações próprias de mineração e terminais | Foco em logística de grandes volumes e contratos com traders/agroindústrias |
+| Nutrien | Vertente upstream e extensa rede de varejo para atendimento direto a produtores | Cobertura ampla global, forte na América do Norte e em mercados agrícolas chave | Integração vertical: produção, distribuição, serviços, agrega valor via atendimento direto |
+| Yara International | Vendas diretas, distribuidores, soluções digitais e serviços de consultoria agronômica | Global; presença comercial forte na Europa e América Latina | Canal baseado em soluções, não só produto, uso de digital para fidelização |
+| EuroChem | Vendas diretas, terminais locais, plantas de blending; investimento em capacidade local no Brasil | Global com reforço de presença local em mercados estratégicos (Brasil) | Estratégia de integração local para reduzir custo de importação e atender demanda regional |
 
 <p style={{textAlign: 'center'}}>Fonte: Os autores (2025)</p>
 
