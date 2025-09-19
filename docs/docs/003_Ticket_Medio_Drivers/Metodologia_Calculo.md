@@ -59,8 +59,8 @@ Com base nos dados de 2024:
 
 ## Referências
 
-- BERTÃO FILHO, Ítalo. *Mosaic vê um 2025 mais fértil, depois de ano prejudicado por preços, demanda e câmbio*. AgFeed, 28 fev. 2025. Disponível em: <https://agfeed.com.br/negocios/mosaic-ve-um-2025-mais-fertil-depois-de-ano-prejudicado-por-precos-demanda-e-cambio/>. Acesso em: 18 set. 2025.
+- BERTÃO FILHO, Ítalo. *Mosaic vê um 2025 mais fértil, depois de ano prejudicado por preços, demanda e câmbio*. AgFeed, 28 fev. 2025. Disponível em: https://agfeed.com.br/negocios/mosaic-ve-um-2025-mais-fertil-depois-de-ano-prejudicado-por-precos-demanda-e-cambio/. Acesso em: 18 set. 2025.
 
-- LOPES, Fernando. *Líder no Brasil, Mosaic vê melhora do cenário para o mercado de fertilizantes*. InfoMoney, 26 dez. 2023. Disponível em: <https://www.infomoney.com.br/business/lider-no-brasil-mosaic-ve-melhora-do-cenario-para-o-mercado-de-fertilizantes/>. Acesso em: 18 set. 2025.
+- LOPES, Fernando. *Líder no Brasil, Mosaic vê melhora do cenário para o mercado de fertilizantes*. InfoMoney, 26 dez. 2023. Disponível em: https://www.infomoney.com.br/business/lider-no-brasil-mosaic-ve-melhora-do-cenario-para-o-mercado-de-fertilizantes/. Acesso em: 18 set. 2025.
 
-- REVISTA CULTIVAR. *Mosaic divulga números de 2024*. Publicado em 28 fev. 2025. Disponível em: <https://revistacultivar.com.br/noticias/mosaic-divulga-numero-de-2024>. Acesso em: 18 set. 2025.
+- REVISTA CULTIVAR. *Mosaic divulga números de 2024*. Publicado em 28 fev. 2025. Disponível em: https://revistacultivar.com.br/noticias/mosaic-divulga-numero-de-2024. Acesso em: 18 set. 2025.
