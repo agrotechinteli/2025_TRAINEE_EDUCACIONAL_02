@@ -8,34 +8,8 @@ description: "Definição e caracterização do produto/linha analisado"
 
 ## Produto/Linha Escolhido
 
-**Nome do Produto/Linha**: [Preencher]
+**Nome do Produto/Linha**: MicroEssentials
 
-**Categoria**: [Preencher]
+**Categoria**: Fertilizantes Fosfatados com Micronutrientes
 
-**Descrição Técnica**: [Preencher com características técnicas, composição, especificações]
-
-## Critérios de Escolha
-
-### Justificativa da Seleção
-
-[Preencher explicando por que este produto foi selecionado]
-
-### Fatores Considerados
-
-- [Preencher fator 1]
-- [Preencher fator 2]
-- [Preencher fator 3]
-
-## Relevância para a Empresa
-
-**Participação na Receita**: [Preencher] %
-
-**Volume de Vendas**: [Preencher]
-
-**Margem Típica**: [Preencher]
-
-**Importância Estratégica**: [Preencher explicando importância na estratégia da empresa]
-
-### Contexto no Portfólio
-
-[Preencher com posicionamento do produto no portfólio total da empresa]
+**Descrição Técnica**: MicroEssentials é uma linha de fertilizantes granulados que combina fósforo (P), enxofre (S) e zinco (Zn) em uma única partícula homogênea, utilizando tecnologia de fusão química. A composição típica inclui MAP (fosfato monoamônico), sulfato de amônio e óxido de zinco, com liberação controlada e maior eficiência de absorção pelas raízes. É voltada para culturas como soja, milho e trigo, com foco em ganhos de produtividade e saúde do solo.
