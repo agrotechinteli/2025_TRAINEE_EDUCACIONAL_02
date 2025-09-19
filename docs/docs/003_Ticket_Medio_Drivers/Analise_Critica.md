@@ -8,83 +8,94 @@ description: "Análise crítica dos drivers e limitações identificadas"
 
 ## Principais Drivers Identificados
 
-### Driver 1: [Preencher com driver mais importante]
+### Driver 1: Preço do dólar e custo de importação de nutrientes
 
-**Impacto**: [Preencher]
+**Impacto**: Alto, os principais insumos do MicroEssentials (MAP, sulfato de amônio e óxido de zinco) são importados, tornando o ticket médio sensível à variação cambial e ao preço internacional.
 
-**Controlabilidade pela empresa**: [Preencher]
+**Controlabilidade pela empresa**: Média, a Mosaic pode negociar contratos de fornecimento e hedge cambial, mas não controla totalmente os preços globais das matérias-primas.
 
-### Driver 2: [Preencher]
+### Driver 2: Demanda por fertilizantes premium no Brasil
 
-**Impacto**: [Preencher]
+**Impacto**: Médio, o interesse por fertilizantes de maior valor agregado, como MicroEssentials, influencia diretamente a capacidade de repasse de preços e ticket médio.
 
-**Controlabilidade pela empresa**: [Preencher]
+**Controlabilidade pela empresa**: Alta, a empresa pode investir em marketing, suporte técnico e fidelização para estimular a demanda por produtos premium.
 
-### Driver 3: [Preencher]
+### Driver 3: Logística e custo de distribuição
 
-**Impacto**: [Preencher]
+**Impacto**: Médio, transporte rodoviário, fretes regionais e margem de distribuidores podem impactar até 15–20% do preço final ao produtor.
 
-**Controlabilidade pela empresa**: [Preencher]
+**Controlabilidade pela empresa**: Média, a Mosaic pode otimizar rotas, negociar taxas com distribuidores e implementar programas de incentivo, mas parte dos custos é determinado por fatores externos (distância, infraestrutura).
 
 ## Limitações da Análise
 
 ### Limitações Metodológicas
 
-- [Preencher limitação 1]
-- [Preencher limitação 2]
-- [Preencher limitação 3]
+- Uso de ticket médio agregado, sem segmentação detalhada por tipo de fertilizante ou região.  
+- Dependência de dados secundários de mercado e relatórios públicos.  
+- Consideração de taxas de câmbio médias anuais, não refletindo flutuações sazonais.
 
 ### Limitações de Dados
 
-[Preencher com limitações específicas dos dados utilizados]
+- Volume de vendas e receita líquidos consolidados sem detalhamento por produto específico.  
+- Falta de informações precisas sobre descontos comerciais e condições de pagamento aplicadas.  
+- Dados de concorrentes limitados, dificultando comparação direta e precisa.
 
 ## Análise de Sensibilidade
 
-**Variável Mais Sensível**: [Preencher]
+**Variável Mais Sensível**: Preço do dólar
 
 ### Teste de Sensibilidade
 
-- Se [variável] aumentar 10%: Ticket médio varia [X]%
-- Se [variável] diminuir 10%: Ticket médio varia [Y]%
+- Se o dólar aumentar 10%: Ticket médio em reais aumenta aproximadamente 10% (R$ 2.548 → R$ 2.803).  
+- Se o dólar diminuir 10%: Ticket médio em reais diminui aproximadamente 10% (R$ 2.548 → R$ 2.293).
 
 ## Comparação com Concorrentes
 
-[Preencher comparando ticket médio estimado com informações de concorrentes]
+- O ticket médio estimado para MicroEssentials (R$ 2.548/ton) está acima da média de fertilizantes convencionais no Brasil (aprox. R$ 2.000–2.200/ton), refletindo seu posicionamento premium.  
+- Concorrentes como Yara e EuroChem possuem linhas semelhantes, mas com menor participação de mercado em fertilizantes premium e menor divulgação de dados segmentados.
 
 ## Implicações Estratégicas
 
 ### Para a Empresa
 
-[Preencher com implicações dos achados para estratégia da empresa]
+- A Mosaic deve focar em manter a diferenciação do MicroEssentials como produto premium e em estratégias de proteção cambial.  
+- Investir em fidelização e suporte técnico aumenta resiliência frente à volatilidade dos preços internacionais.  
+- Monitorar custos logísticos e negociar com distribuidores para otimizar margens.
 
 ### Oportunidades Identificadas
 
-- [Preencher oportunidade 1]
-- [Preencher oportunidade 2]
-- [Preencher oportunidade 3]
+- Expansão da linha premium para novas regiões do Brasil.  
+- Programas de fidelização e contratos de fornecimento de longo prazo com cooperativas.  
+- Exploração de incentivos fiscais e logísticos para reduzir o custo final.
 
 ### Riscos Identificados
 
-- [Preencher risco 1]
-- [Preencher risco 2]
-- [Preencher risco 3]
+- Volatilidade cambial que afetam insumos importados.  
+- Pressão competitiva de Yara e EuroChem.  
+- Redução na demanda agrícola devido a margens apertadas ou variações climáticas.
 
 ### Recomendações Preliminares
 
-- [Preencher recomendação 1]
-- [Preencher recomendação 2]
-- [Preencher recomendação 3]
+- Implementar hedge cambial para insumos importados.  
+- Investir em marketing técnico e suporte agronômico para fortalecer o valor percebido do produto.  
+- Otimizar logística e negociar margens de distribuidores estratégicos.
 
 ## Próximos Passos para Valuation
 
 ### Metodologias Sugeridas
 
-[Preencher com metodologias que fazem sentido para empresa/setor]
+- Fluxo de caixa descontado (DCF) por produto/linha.  
+- Análise de sensibilidade considerando variação do dólar, custos e volumes vendidos.  
+- Comparáveis de mercado para fertilizantes premium.
 
 ### Premissas Iniciais
 
-[Preencher com premissas derivadas da análise de ticket médio]
+- Ticket médio base de US$ 490/ton (R$ 2.548/ton).  
+- Crescimento de volume alinhado à demanda agrícola histórica.  
+- Custos de importação, frete e impostos refletindo valores médios de 2025.
 
 ### Dados Adicionais Necessários
 
-[Preencher com dados necessários para valuation]
+- Segmentação de receita e volume por produto e região.  
+- Detalhamento de condições comerciais e descontos aplicados.  
+- Informações de concorrentes sobre preços e participação de mercado.
