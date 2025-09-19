@@ -80,3 +80,20 @@ description: "Mapeamento das variáveis que influenciam a precificação do prod
 **Variação de Preços por Período**: Preços tendem a subir entre julho e outubro, com maior demanda e menor estoque
 
 **Ciclo Agrícola/Industrial**: Produção é contínua, mas distribuição e vendas seguem o calendário agrícola, com picos antes do plantio
+
+---
+
+## Referências
+
+1. Mosaic Brasil. *Resultados do quarto trimestre e do ano de 2022*. Disponível em: [https://mosaicco.com.br/Article/A-The-Mosaic-Company-anuncia-resultados-do-quarto-trimestre-e-do-ano-de-2022](https://mosaicco.com.br/Article/A-The-Mosaic-Company-anuncia-resultados-do-quarto-trimestre-e-do-ano-de-2022)
+
+2. Nutrição de Safras. *MicroEssentials – Fertilizante com micronutrientes*. Disponível em: [https://nutricaodesafras.com.br/microessentials](https://nutricaodesafras.com.br/microessentials)
+
+3. Superfértil Comercial Agrícola. *Ficha técnica MicroEssentials*. Disponível em: [http://www.superfertil.com.br/portal/produto/1/microessentials](http://www.superfertil.com.br/portal/produto/1/microessentials)
+
+4. ANDA – Associação Nacional para Difusão de Adubos. *Boletins Estatísticos*. Disponível em: [https://anda.org.br/estatisticas](https://anda.org.br/estatisticas)
+
+5. Abisolo – Associação Brasileira das Indústrias de Tecnologia em Nutrição Vegetal. *Relatório de Mercado 2024*. Disponível em: [https://abisolo.com.br/publicacoes](https://abisolo.com.br/publicacoes)
+
+6. MAPA – Ministério da Agricultura e Pecuária. *Regulamentação de Fertilizantes*. Disponível em: [https://www.gov.br/agricultura/pt-br/assuntos/insumos-agropecuarios/fertilizantes](https://www.gov.br/agricultura/pt-br/assuntos/insumos-agropecuarios/fertilizantes)
+
