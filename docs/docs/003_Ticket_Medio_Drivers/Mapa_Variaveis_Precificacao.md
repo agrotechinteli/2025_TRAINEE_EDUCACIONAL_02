@@ -11,12 +11,12 @@ description: "Mapeamento das variáveis que influenciam a precificação do prod
 <p style={{textAlign: 'center'}}>Tabela 6 - Custos Diretos</p>
 
 | Componente de Custo | Descrição | Impacto no Preço | Fonte |
-|-------------------|-----------|------------------|-------|
-| Matéria-prima 1 | [Preencher] | [Preencher] | [Preencher] |
-| Matéria-prima 2 | [Preencher] | [Preencher] | [Preencher] |
-| Mão de obra | [Preencher] | [Preencher] | [Preencher] |
-| Energia | [Preencher] | [Preencher] | [Preencher] |
-| Outros | [Preencher] | [Preencher] | [Preencher] |
+|---------------------|-----------|------------------|-------|
+| Matéria-prima 1 | Fosfato monoamônico (MAP) | Alto – representa a base do fertilizante | [1](https://mosaicco.com.br/Fertilizantes) |
+| Matéria-prima 2 | Enxofre (elementar e sulfato de amônio) | Médio – influencia a liberação gradual de nutrientes | [2](https://nutricaodesafras.com.br/microessentials) |
+| Mão de obra | Operações de mistura, granulação e embalagem | Baixo – automatização reduz impacto | Os autores (2025) |
+| Energia | Consumo elétrico nas plantas de processamento | Médio – sensível a tarifas regionais | Os autores (2025) |
+| Outros | Zinco, transporte interno, manutenção de equipamentos | Baixo a médio – depende da escala produtiva | Os autores (2025) |
 
 <p style={{textAlign: 'center'}}>Fonte: Os autores (2025)</p>
 
@@ -25,11 +25,11 @@ description: "Mapeamento das variáveis que influenciam a precificação do prod
 <p style={{textAlign: 'center'}}>Tabela 7 - Custos Indiretos</p>
 
 | Componente de Custo | Descrição | Impacto no Preço | Fonte |
-|-------------------|-----------|------------------|-------|
-| Overhead fabril | [Preencher] | [Preencher] | [Preencher] |
-| P&D | [Preencher] | [Preencher] | [Preencher] |
-| Marketing | [Preencher] | [Preencher] | [Preencher] |
-| Administrativo | [Preencher] | [Preencher] | [Preencher] |
+|---------------------|-----------|------------------|-------|
+| Overhead fabril | Custos fixos das unidades industriais | Médio – diluído conforme volume | Os autores (2025) |
+| P&D | Desenvolvimento de formulações e testes agronômicos | Alto – cerca de 2,8% do faturamento | [1](https://mosaicco.com.br/Fertilizantes) |
+| Marketing | Campanhas de posicionamento e fidelização | Médio – reforça valor agregado | Os autores (2025) |
+| Administrativo | Gestão, compliance e suporte técnico | Baixo – pouco sensível ao volume | Os autores (2025) |
 
 <p style={{textAlign: 'center'}}>Fonte: Os autores (2025)</p>
 
@@ -39,26 +39,26 @@ description: "Mapeamento das variáveis que influenciam a precificação do prod
 
 | Fator | Descrição | Impacto no Preço Final | Observações |
 |-------|-----------|------------------------|-------------|
-| Margem do distribuidor | [Preencher] | [Preencher] | [Preencher] |
-| Frete | [Preencher] | [Preencher] | [Preencher] |
-| Impostos | [Preencher] | [Preencher] | [Preencher] |
-| Financiamento | [Preencher] | [Preencher] | [Preencher] |
+| Margem do distribuidor | Percentual aplicado por revendas e cooperativas | Médio a alto – varia conforme região | Pode chegar a 20% em áreas remotas |
+| Frete | Transporte rodoviário até o produtor | Alto – especialmente no Centro-Oeste | Influenciado por distância e infraestrutura |
+| Impostos | ICMS, PIS/COFINS e tributos federais | Médio – depende do regime tributário | Pode ser compensado por créditos fiscais |
+| Financiamento | Custo do crédito rural e prazos de pagamento | Médio – afeta o preço percebido | Programas como Plano Safra influenciam |
 
 <p style={{textAlign: 'center'}}>Fonte: Os autores (2025)</p>
 
 ## Fatores Competitivos
 
-**Principais Concorrentes Diretos**: [Preencher]
+**Principais Concorrentes Diretos**: Yara Brasil, EuroChem, Fertipar
 
-**Diferencial Competitivo**: [Preencher]
+**Diferencial Competitivo**: Tecnologia de fusão química patenteada, liberação gradual de nutrientes, maior eficiência agronômica e alinhamento ESG
 
-**Elasticidade-Preço**: [Preencher - alta/média/baixa com justificativa]
+**Elasticidade-Preço**: Média – produtores valorizam performance, mas são sensíveis a variações de preço em safras com margens apertadas
 
 ## Fatores Regulatórios
 
-**Regulamentações Aplicáveis**: [Preencher]
+**Regulamentações Aplicáveis**: Normas do MAPA para registro de fertilizantes especiais, exigências da Abisolo para rotulagem e rastreabilidade
 
-**Impacto no Custo/Preço**: [Preencher]
+**Impacto no Custo/Preço**: Médio – exigem conformidade técnica e testes laboratoriais, mas agregam valor ao produto
 
 ## Fatores Macroeconômicos
 
@@ -66,17 +66,17 @@ description: "Mapeamento das variáveis que influenciam a precificação do prod
 
 | Fator | Impacto | Descrição |
 |-------|---------|-----------|
-| Câmbio | [Preencher] | [Preencher] |
-| Inflação | [Preencher] | [Preencher] |
-| Taxa de juros | [Preencher] | [Preencher] |
-| Commodities | [Preencher] | [Preencher] |
+| Câmbio | Alto | Insumos como MAP e enxofre são cotados em dólar, afetando diretamente o custo |
+| Inflação | Médio | Pressiona custos operacionais e logísticos |
+| Taxa de juros | Médio | Influencia o custo de capital e financiamento agrícola |
+| Commodities | Alto | Preço da soja e milho afeta poder de compra do produtor e demanda por fertilizantes |
 
 <p style={{textAlign: 'center'}}>Fonte: Os autores (2025)</p>
 
 ## Fatores Sazonais
 
-**Sazonalidade da Demanda**: [Preencher]
+**Sazonalidade da Demanda**: Alta – concentrada nos períodos de plantio (safra de verão e safrinha)
 
-**Variação de Preços por Período**: [Preencher]
+**Variação de Preços por Período**: Preços tendem a subir entre julho e outubro, com maior demanda e menor estoque
 
-**Ciclo Agrícola/Industrial**: [Preencher]
+**Ciclo Agrícola/Industrial**: Produção é contínua, mas distribuição e vendas seguem o calendário agrícola, com picos antes do plantio
