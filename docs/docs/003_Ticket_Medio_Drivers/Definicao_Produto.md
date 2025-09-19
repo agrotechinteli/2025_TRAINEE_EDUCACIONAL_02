@@ -40,3 +40,19 @@ Escolhemos a linha MicroEssentials por representar a interseção entre inovaç�
 ### Contexto no Portfólio
 
 MicroEssentials está posicionada como uma linha premium dentro do portfólio da Mosaic Fertilizantes, ao lado de produtos como K-Mag e a nova linha Biosciences. Atua como ponte entre os fertilizantes tradicionais (MAP, DAP) e os especiais, sendo essencial para capturar margens superiores e atender produtores que buscam performance agronômica com responsabilidade ambiental.
+
+---
+
+## Referências
+
+1. Mosaic Brasil. Disponível em: [https://mosaicco.com.br/Article/A-The-Mosaic-Company-anuncia-resultados-do-quarto-trimestre-e-do-ano-de-2022](https://mosaicco.com.br/Article/A-The-Mosaic-Company-anuncia-resultados-do-quarto-trimestre-e-do-ano-de-2022)
+
+2. Nutrição de Safras. *MicroEssentials – Fertilizante com micronutrientes*. Disponível em: [https://nutricaodesafras.com.br/microessentials](https://nutricaodesafras.com.br/microessentials)
+
+3. Superfértil Comercial Agrícola. *Ficha técnica MicroEssentials*. Disponível em: [http://www.superfertil.com.br/portal/produto/1/microessentials](http://www.superfertil.com.br/portal/produto/1/microessentials)
+
+4. Abisolo – Associação Brasileira das Indústrias de Tecnologia em Nutrição Vegetal. *Relatório de Mercado 2024*. Disponível em: [https://abisolo.com.br/publicacoes](https://abisolo.com.br/publicacoes)
+
+5. ANDA – Associação Nacional para Difusão de Adubos. *Estatísticas de mercado e entregas de fertilizantes*. Disponível em: [https://anda.org.br/estatisticas](https://anda.org.br/estatisticas)
+
+6. MAPA – Ministério da Agricultura e Pecuária. *Regulamentação de Fertilizantes Especiais*. Disponível em: [https://www.gov.br/agricultura/pt-br/assuntos/insumos-agropecuarios/fertilizantes](https://www.gov.br/agricultura/pt-br/assuntos/insumos-agropecuarios/fertilizantes)
