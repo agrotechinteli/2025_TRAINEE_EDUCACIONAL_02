@@ -6,47 +6,60 @@ description: "Metodologias secundárias e comparação de resultados"
 
 # Metodologias Secundárias
 
-## Metodologia 2: [Nome da Metodologia]
+## Metodologia 2: Múltiplos de Mercado (EV/EBITDA e P/L)
 
 ### Descrição da Metodologia
 
-[Preencher com explicação técnica]
+A metodologia de múltiplos de mercado busca estimar o valor de uma empresa com base em como empresas semelhantes são precificadas. Para isso, utilizam-se indicadores financeiros como EV/EBITDA e P/L, calculados a partir de dados públicos de empresas comparáveis. Essa abordagem fornece uma referência externa para o valuation e é útil para validar os resultados obtidos pelo DCF.
 
-### Empresas Comparáveis (se aplicável)
+---
+
+### Empresas Comparáveis
 
 <p style={{textAlign: 'center'}}>Tabela 13 - Empresas Comparáveis</p>
 
-| Empresa | País | Múltiplo 1 | Múltiplo 2 | Múltiplo 3 | Observações |
-|---------|------|------------|------------|------------|-------------|
-| Empresa 1 | [País] | [Valor] | [Valor] | [Valor] | [Observações] |
-| Empresa 2 | [País] | [Valor] | [Valor] | [Valor] | [Observações] |
-| Empresa 3 | [País] | [Valor] | [Valor] | [Valor] | [Observações] |
-| **Mediana** | - | **[Valor]** | **[Valor]** | **[Valor]** | - |
+| Empresa   | País         | EV/EBITDA | P/L  | Observações |
+|-----------|-------------|-----------|------|-------------|
+| Yara     | Noruega     | 6,8x     | 12,5x | Empresa consolidada, foco em nitrogenados e presença global |
+| Nutrien  | Canadá      | 7,3x     | 13,2x | Forte diversificação (NPK e varejo), presença relevante no Brasil |
+| EuroChem | Suíça/Rússia| 5,9x     | 10,8x | Estrutura verticalizada e expansão recente no Brasil |
+| **Mediana** | -         | **6,8x** | **12,2x** | - |
 
-<p style={{textAlign: 'center'}}>Fonte: Os autores (2025)</p>
+<p style={{textAlign: 'center'}}>Fonte: Relatórios financeiros públicos (Investing.com, SEC, Nutrien 2024 Results)</p>
+
+---
 
 ### Ajustes Realizados
 
-[Preencher com ajustes feitos nos múltiplos ou dados]
+Foram utilizados múltiplos globais sem ajustes de prêmio ou desconto, considerando que a operação brasileira da Mosaic tem perfil semelhante às empresas comparáveis em termos de escala e margens. O múltiplo EV/EBITDA mediano de 6,8x foi aplicado ao EBITDA projetado para 2025, enquanto o múltiplo P/L mediano de 12,2x foi aplicado ao lucro líquido estimado para o mesmo período.
+
+---
 
 ### Resultado da Metodologia 2
 
-**Múltiplo Aplicado**: [Preencher]
+**Múltiplo EV/EBITDA aplicado**: 6,8x  
+**EBITDA 2025 estimado**: R$ 4.725 milhões  
 
-**Métrica da Empresa**: [Preencher]
+\[
+\text{EV} = 4.725 \times 6,8 = R\$ 32.130 \text{ milhões}
+\]
 
-**Valor por Ação**: [Preencher]
+Subtraindo a dívida líquida estimada de R$ 8.000 milhões:
 
-## Metodologia 3: [Nome da Metodologia] (se aplicável)
+\[
+\text{Equity Value} = 32.130 - 8.000 = R\$ 24.130 \text{ milhões}
+\]
 
-### Descrição da Metodologia
+Dividindo pelo número de ações (350 milhões):
 
-[Preencher com explicação técnica]
+\[
+\text{Valor por Ação} \approx R\$ 68,95
+\]
 
-### Premissas Específicas
+---
 
-[Preencher com premissas específicas desta metodologia]
+**Múltiplo P/L aplicado**: 12,2x  
+**Lucro Líquido 2025 estimado**: R$ 2.625 milhões (10% de margem líquida sobre receita de R$ 26,25 bi)
 
-### Resultado da Metodologia 3
-
-**Valor por Ação**: [Preencher]
+\[
+\text{Equity Value} = 2.625 \times 1
