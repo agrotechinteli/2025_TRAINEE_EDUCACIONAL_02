@@ -63,3 +63,4 @@ Dividindo pelo número de ações (350 milhões):
 
 \[
 \text{Equity Value} = 2.625 \times 1
+\]
