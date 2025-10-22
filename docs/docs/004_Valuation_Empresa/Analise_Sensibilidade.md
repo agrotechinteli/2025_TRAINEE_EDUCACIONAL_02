@@ -78,7 +78,3 @@ Entre todas as variáveis testadas, a taxa de crescimento perpetuamente apresent
 
 > “A análise de sensibilidade em DCF deve sempre priorizar WACC e g, pois pequenas mudanças em qualquer uma delas geram grandes diferenças no valor final.”
 > — [FE Training](https://www.fe.training/free-resources/valuation/dcf-sensitizing-for-key-variables/)
-
-## Gráfico de Sensibilidade
-
-<p style={{textAlign: 'center'}}>Figura 14 - Impacto percentual das variáveis sobre o valor da empresa</p>
