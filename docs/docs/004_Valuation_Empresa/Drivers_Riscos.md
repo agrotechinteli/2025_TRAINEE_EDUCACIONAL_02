@@ -8,54 +8,60 @@ description: "Principais drivers de valor e riscos identificados"
 
 ## Principais Drivers Positivos
 
-### Driver 1: [Preencher]
+### Driver 1: Recuperação de preços e demanda global
 
-**Impacto quantitativo**: [Preencher]
+**Impacto quantitativo**: Potencial de aumento de receita em até R$ 2 bilhões em 2025
 
-**Probabilidade de materialização**: [Preencher]
+**Probabilidade de materialização**: Alta
 
-**Descrição**: [Preencher]
+**Descrição**: Após um 2024 marcado por queda nos preços e volumes, a Mosaic projeta recuperação em 2025 impulsionada por melhora na demanda global e estabilização cambial. A retomada pode elevar margens e valor de mercado da operação brasileira.
 
-### Driver 2: [Preencher]
+### Driver 2: Corte de custos operacionais
 
-**Impacto quantitativo**: [Preencher]
+**Impacto quantitativo**: Redução de até R$ 500 milhões em despesas operacionais
 
-**Probabilidade de materialização**: [Preencher]
+**Probabilidade de materialização**: Média
 
-**Descrição**: [Preencher]
+**Descrição**: A empresa anunciou medidas de eficiência para 2025, com foco em otimização logística e renegociação de contratos. A redução de custos pode melhorar o EBITDA e compensar volatilidades externas.
 
-### Driver 3: [Preencher]
+### Driver 3: Expansão da presença no Brasil
 
-**Impacto quantitativo**: [Preencher]
+**Impacto quantitativo**: Crescimento de market share em até 3 pontos percentuais
 
-**Probabilidade de materialização**: [Preencher]
+**Probabilidade de materialização**: Média
 
-**Descrição**: [Preencher]
+**Descrição**: A Mosaic segue ampliando sua atuação no Brasil, com foco em fertilizantes NPK e canais de distribuição. A expansão pode gerar ganhos de escala e reforçar a competitividade frente a concorrentes como Nutrien e EuroChem.
 
 ## Principais Riscos
 
-### Risco 1: [Preencher]
+### Risco 1: Volatilidade nos preços de fertilizantes fosfatados
 
-**Impacto negativo potencial**: [Preencher]
+**Impacto negativo potencial**: Redução de receita em até R$ 1,5 bilhão
 
-**Probabilidade**: [Preencher]
+**Probabilidade**: Alta
 
-**Mitigação possível**: [Preencher]
+**Mitigação possível**: Diversificação de fornecedores e contratos de hedge para insumos críticos
 
-### Risco 2: [Preencher]
+### Risco 2: Atraso nas compras por parte dos produtores
 
-**Impacto negativo potencial**: [Preencher]
+**Impacto negativo potencial**: Queda nas vendas no primeiro semestre de 2025
 
-**Probabilidade**: [Preencher]
+**Probabilidade**: Média
 
-**Mitigação possível**: [Preencher]
+**Mitigação possível**: Campanhas de antecipação de compras e flexibilização de prazos comerciais
 
-### Risco 3: [Preencher]
+### Risco 3: Pressão regulatória e ambiental
 
-**Impacto negativo potencial**: [Preencher]
+**Impacto negativo potencial**: Aumento de custos operacionais e necessidade de adaptação tecnológica
 
-**Probabilidade**: [Preencher]
+**Probabilidade**: Baixa
 
-**Mitigação possível**: [Preencher]
+**Mitigação possível**: Investimentos em compliance ambiental e inovação em fertilizantes sustentáveis
 
 ## Matriz Risco vs Impacto
+
+| Risco                                 | Probabilidade | Impacto Potencial | Classificação |
+|--------------------------------------|---------------|-------------------|----------------|
+| Volatilidade nos preços fosfatados   | Alta          | Alto              | Crítico        |
+| Atraso nas compras dos produtores    | Média         | Médio             | Moderado       |
+| Pressão regulatória e ambiental      | Baixa         | Médio             | Monitoramento  |
