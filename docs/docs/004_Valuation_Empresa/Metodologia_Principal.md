@@ -43,28 +43,28 @@ A metodologia de Fluxo de Caixa Descontado (DCF) foi usada para estimar o valor 
 
 ### Outras Premissas Financeiras
 
-- **CAPEX como % da Receita**: 4%  
+- **CAPEX como % da Receita**: 4%
   Premissa baseada em médias de empresas do setor, que costumam investir entre 3% e 6% da receita em manutenção e expansão moderada.
 
-- **Variação do Capital de Giro**: 1% da receita  
+- **Variação do Capital de Giro**: 1% da receita
   Representa a necessidade de estoques e recebíveis que acompanha o crescimento, sem grandes oscilações.
 
-- **Taxa de Desconto (WACC)**: 10%  
+- **Taxa de Desconto (WACC)**: 10%
   Combina custo de capital próprio e de terceiros, refletindo o risco Brasil e a estrutura de capital típica do setor.
 
-- **Custo do Capital Próprio (Ke)**: 14%  
+- **Custo do Capital Próprio (Ke)**: 14%
   Considera taxa livre de risco (~5,5%), prêmio de risco país (~5%) e risco do setor.
 
-- **Custo do Capital de Terceiros (Kd)**: 8%  
+- **Custo do Capital de Terceiros (Kd)**: 8%
   Alinhado a taxas de financiamento de grandes empresas no Brasil.
 
-- **Estrutura de Capital (D/E)**: 40% dívida / 60% equity  
+- **Estrutura de Capital (D/E)**: 40% dívida / 60% equity
   Representa uma estrutura financeira equilibrada, comum no setor.
 
-- **Taxa de Crescimento Perpétuo**: 2%  
+- **Taxa de Crescimento Perpétuo**: 2%
   Alinhada ao crescimento real de longo prazo da economia brasileira.
 
-- **Taxa de Imposto**: 34%  
+- **Taxa de Imposto**: 34%
   Soma de IRPJ (25%) e CSLL (9%), alíquota padrão para empresas no regime real.
 
 ---
@@ -73,10 +73,10 @@ A metodologia de Fluxo de Caixa Descontado (DCF) foi usada para estimar o valor 
 
 As taxas de crescimento foram definidas a partir do histórico do setor de fertilizantes no Brasil, que gira entre 3% e 4% ao ano (dados ANDA), e também levando em conta o ticket médio calculado anteriormente. A taxa de perpetuidade foi alinhada ao PIB real de longo prazo, seguindo práticas conservadoras de valuation.
 
-As margens tomam como base empresas globais comparáveis:  
-- Yara apresenta margem bruta de cerca de 27,4% (Investing.com).  
-- Nutrien tem margem bruta de 29% e margem operacional de 17,8% (relatórios de 2024).  
-- Mosaic Global reporta margem EBITDA entre 15% e 20% (SEC).  
+As margens tomam como base empresas globais comparáveis:
+- Yara apresenta margem bruta de cerca de 27,4% (Investing.com).
+- Nutrien tem margem bruta de 29% e margem operacional de 17,8% (relatórios de 2024).
+- Mosaic Global reporta margem EBITDA entre 15% e 20% (SEC).
 Ajustamos essas referências para o contexto brasileiro, considerando o portfólio premium da Mosaic Fertilizantes e ganhos operacionais esperados.
 
 As demais premissas (CAPEX, capital de giro e taxas financeiras) seguem médias de mercado e parâmetros macroeconômicos do Brasil, representando um cenário realista para uma operação madura como a Mosaic Brasil.

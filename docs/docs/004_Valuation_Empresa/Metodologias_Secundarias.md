@@ -16,7 +16,7 @@ A metodologia de múltiplos de mercado busca estimar o valor de uma empresa com 
 
 ### Empresas Comparáveis
 
-<p style="text-align: center;">Tabela 13 - Empresas Comparáveis</p>
+<p style={{textAlign: 'center'}}>Tabela 13 - Empresas Comparáveis</p>
 
 | Empresa   | País          | EV/EBITDA | P/L   | Observações                                                            |
 |-----------|---------------|-----------|-------|------------------------------------------------------------------------|
@@ -25,7 +25,7 @@ A metodologia de múltiplos de mercado busca estimar o valor de uma empresa com 
 | EuroChem  | Suíça/Rússia  | 5,9x      | 10,8x | Estrutura verticalizada e expansão recente no Brasil                   |
 | **Mediana** | -           | **6,8x**  | **12,2x** | -                                                                     |
 
-<p style="text-align: center;">Fonte: Relatórios financeiros públicos (Investing.com, SEC, Nutrien 2024 Results)</p>
+<p style={{textAlign: 'center'}}>Fonte: Relatórios financeiros públicos (Investing.com, SEC, Nutrien 2024 Results)</p>
 
 ---
 
@@ -37,18 +37,18 @@ Foram utilizados múltiplos globais sem ajustes de prêmio ou desconto, consider
 
 ### Resultado da Metodologia 2
 
-**Múltiplo EV/EBITDA aplicado**: 6,8x  
-**EBITDA 2025 estimado**: R$ 4.725 milhões  
+**Múltiplo EV/EBITDA aplicado**: 6,8x
+**EBITDA 2025 estimado**: R$ 4.725 milhões
 
-**EV = 4.725 × 6,8 = R$ 32.130 milhões**  
-**Equity Value = 32.130 - 8.000 = R$ 24.130 milhões**  
+**EV = 4.725 × 6,8 = R$ 32.130 milhões**
+**Equity Value = 32.130 - 8.000 = R$ 24.130 milhões**
 **Valor por Ação = R$ 24.130 / 350 ≈ R$ 68,94**
 
 ---
 
-**Múltiplo P/L aplicado**: 12,2x  
+**Múltiplo P/L aplicado**: 12,2x
 **Lucro Líquido 2025 estimado**: R$ 2.625 milhões (10% de margem líquida sobre receita de R$ 26,25 bilhões)
 
-**Equity Value = 2.625 × 12,2 = R$ 32.025 milhões**  
-**Equity Value ajustado = 32.025 - 8.000 = R$ 24.025 milhões**  
+**Equity Value = 2.625 × 12,2 = R$ 32.025 milhões**
+**Equity Value ajustado = 32.025 - 8.000 = R$ 24.025 milhões**
 **Valor por Ação = R$ 24.025 / 350 ≈ R$ 68,64**
